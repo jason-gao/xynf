@@ -1,0 +1,25 @@
+{
+  "name": "xynf",
+  "version": "1.0.0",
+  "description": "node framework",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jason-gao/xynf.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "jason-gao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jason-gao/xynf/issues"
+  },
+  "homepage": "https://github.com/jason-gao/xynf#readme"
+}
